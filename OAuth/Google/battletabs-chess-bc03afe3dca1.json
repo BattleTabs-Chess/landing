@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "battletabs-chess",
+  "private_key_id": "bc03afe3dca14be248a524976a5d6d2c248babec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5fiMe0uEmTByD\nPlHmFLUHgwt3sfXOmwQ50bo8vJnlG5eM27u9Q1Gu3jUjQ/445AR/Vblf8asi9lqj\nHp7Fr2kNudqnjjovHuZwn9z3RZXX+4YNYhErUsZQofZCsDogLsmiUcSYdTsu27f9\nIZ1dMh/1ZcsbnZQsxqIzhXs6/G0p52ZUxT7nyWdeEO5LWP1HD70iLHFhed7e6laV\n40FdrjmEIa2EAY1qi1ls6j0XdOuBPqtn48JhB7HZOmWh4ukge76ZjMziec1k4G2e\nSIzLzLL+CJxgpNJEKPOFgzOgIdpZZTI/HnZnxQWewFjIAQJWynJIGaWajEcnypdT\nKP88rnglAgMBAAECggEADrXUzdpQxgYTMh/8brqwVerWkKTUUZDe7OxCUL7EQEnH\n4wEqClW5t0ciqlaiD/Dv9Qk0rPSFaz247RFolf+Ah/jNQQHOgMjP4u6f9MbX80uc\nfe3hCVvZzls0ebrFYU1UlZgrzHYU6MppSkci1lk7SkLLBg2hH/aWC8VHgzixj45f\nY1CY67QdNAJ5Jgdd2GyCt+IiLeJhuyN2zwlsuDxoC1Bqzz0yxzL+ZuHIU9GqdpU0\nIgIXY8o65GTDeBsRIv1A8rAc0Vv6XAuzc6fbPvxRvMvJgsanlt2drTOzWzpnJFhi\nUUHwauCPcC6bZz4oTIwATe8PEP3ZuQfH34opfkhyoQKBgQD9KsR1O8SNQ975fxO5\nLTYIlCOs3BV+f/KL81szz/QKxSMWr+jdbUEDufbd9ApQwLjjM9yyDqmpHeSIvGEx\nTbPHNyOb+woEmHx8vS+nt7XXiaAa0nWkfM6NrXcOS68Ady0GsuYI+lCDbsfU7jiJ\nUl63LccyutNHlgC1nb7z9V6vkwKBgQC7kYHTtJJFRwBQliEV4FWs+5p2wubTSuDX\nQKombZ9fny9ph6aTqf5FMB4ZYOvOOpAGXs25/4mTX4oD7h3U0OPhlVJ97wQGqa2n\nF7T99eZ8K+TYlFl8+SQO4hfwlIazEN8uW0e2e7laWhlOoPaZU86HhL8XUiYEFyph\nBQsHDa9cZwKBgQD3+qZItuyF+s8zz/e/0Ls2l/SB42niaO1pjEvvamh/DC6ckF4m\nVlfykHtxWROpmb0AP9KTTq19C9zI2szRAG1yW14z8SgU7FAz1xQQ0m/52cLLww6c\nueuQ9zLA+/1FFXczMpUEgjvPIfn3ZghW6ioAf4S4+irt2c6EFyntyJCgpQKBgQCY\nSoUpufQFMafMxohodbO6drKseITny2URAFzmRJ1hCyN4wH38aMqdrHrTykDLOftU\nYMcSnKs8MBckJ8Kq10wfDZljzJvtOPlYsMPwayZPbWgqfRDHipW/S816NW3EmA9N\nWSm5vWz6MitYDxMJ3OTUXXC146ogKhrrmSeh+3eFQwKBgFoMmcbD/WcaKdfOV/WJ\nGtPMuuxxs4DUWHBghozxRmRBoi20GwWwkwoaJtC4Gb1NMz0qtN8seuynEkZr2bUH\ns8pRjQNdM+zPuVzB5ZbPJc0lPsL50fXwnThM60g6yTlnLsilibE9zP427m+KtnO1\nm85F/Bz4q+bHyEfsdwUfwPS+\n-----END PRIVATE KEY-----\n",
+  "client_email": "battletabs-chess@battletabs-chess.iam.gserviceaccount.com",
+  "client_id": "117481070937568589560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/battletabs-chess%40battletabs-chess.iam.gserviceaccount.com"
+}
