@@ -4,21 +4,24 @@
     <!--Encoding-->
     <meta charset="UTF-8" />
     <!--Description and title-->
-    <title>Operation Checkers</title>
+    <title>Login - Operation Checkers</title>
     <meta
       name="description"
       content="Operation Checkers, also known as
     BattleTabs Chess, is an open-source, community-made project as a sequel to
-    th best online game ever (no bias), BattleTabs.io"
+    the best online game ever (no bias), BattleTabs.io"
     />
     <!--Viewport configuration-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!--Linking the CSS-->
     <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="login.css" />
     <!--Linking the JS-->
     <script src="main.js"></script>
+    <script src="login.js"></script>
   </head>
   <body onload="loaded()">
+    <!-- This is the loader -->
     <div id="loaderScreen">
       <div class="squares">
         <div class="squares1">
@@ -31,5 +34,47 @@
         </div>
       </div>
     </div>
+    <!-- Incompatible device -->
+    <h1 id="badMedia">
+      It appears that your device screen <br />
+      is either too large or <br />
+      too small. (Or it <br />
+      may not even have one!
+    </h1>
+    <!-- Here starts the login form -->
+    <div class="container">
+      <div class="form">
+        <h1>Login</h1>
+        <div class="side1 side">
+          <div class="loginFields">
+            <div class="username">
+              <input type="text" placeholder="Username" class="input1" />
+            </div>
+            <div class="password">
+              <input type="password" placeholder="Password" />
+            </div>
+            <button class="submit"><p>Login</p></button>
+          </div>
+        </div>
+        <div class="divider"></div>
+        <div class="side2 side">
+          <div class="externalLogins">
+            <button class="externalLogin" id="google">
+              <div class="buttonContent">
+                <img src="/img/discord.svg" draggable="false" />
+                Sign in with Discord
+              </div>
+            </button>
+            <button class="externalLogin" id="discord">
+              <div class="buttonContent">
+                <img src="/img/google.svg" draggable="false" />
+                Sign in with Google
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Here ends the login page -->
   </body>
 </html>
